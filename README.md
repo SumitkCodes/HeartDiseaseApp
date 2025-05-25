@@ -103,6 +103,14 @@ heart-disease-app/
 ```
 
 ---
+## Screenshots
+![WhatsApp Image 2025-05-26 at 02 10 32](https://github.com/user-attachments/assets/265482aa-dfe3-4bfd-b69e-2c54013ba525)
+
+![WhatsApp Image 2025-05-26 at 02 10 34](https://github.com/user-attachments/assets/1df5aa3a-61de-44dd-b407-31a9e3a7f74e)
+
+![Screenshot](https://github.com/user-attachments/assets/51da70ca-8566-4ede-8b9a-b9d6a900022a)
+
+---
 
 ## 💡 Who Is This For?
 
