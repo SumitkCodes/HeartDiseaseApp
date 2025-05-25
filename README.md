@@ -5,6 +5,8 @@ Turns out—yes, they can. With the right data and models, we can make meaningfu
 
 ---
 
+App link: https://drive.google.com/file/d/1bTwPykb4L4NUPkv7HD1WBHD8OqzloFna/view?usp=sharing
+
 ## ✨ Why This Project?
 
 This app was born from a simple idea:
