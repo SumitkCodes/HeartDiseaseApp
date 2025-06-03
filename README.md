@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction App
+# ❤️ CardioSense A Real-Time Heart Disease Detection and Risk Assessment
 
 **"Can a handful of numbers really tell us something about your heart?"**
 Turns out—yes, they can. With the right data and models, we can make meaningful predictions that could help save lives.
